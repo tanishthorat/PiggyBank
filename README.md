@@ -42,9 +42,6 @@ Welcome to the Piggy Bank Web Application project! This web application allows u
 
 ## Notes
 
-- Code quality, API design, and software practices will be considered in the evaluation.
-- Authentication and authorization features have been omitted for simplicity.
-- UI design emphasis is on component design.
 
 ## Contact Information
 
